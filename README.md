@@ -18,33 +18,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🚀 Current Project
-- **MyBank Pro – Secure Banking API & App** – Built a full-stack banking system with secure authentication, account management, and transaction tracking. Designed for both web APIs and a Streamlit frontend, with modern security practices.
 
-🔑 Key Features:
+### **MyBank Pro – Secure Banking API & App**
+A full-stack financial application demonstrating modern backend and frontend development practices with robust security features.
 
-User registration & login (email/password)
-Google OAuth 2.0 login integration
-JWT-based authentication & session management
-Account balance management, deposits & withdrawals
-Transaction history with audit logs
-Fully responsive Streamlit dashboard
+**Key Features:**
+- User registration & login with email/password  
+- Google OAuth 2.0 authentication  
+- JWT-based authentication & session management  
+- Account management: balance tracking, deposits & withdrawals  
+- Transaction history with audit logs  
+- Responsive Streamlit dashboard for seamless user experience  
 
-💻 Tech Stack:
+**Tech Stack:**
+- **Backend:** FastAPI, Python, SQLite  
+- **Authentication:** JWT, OAuth 2.0 (Google)  
+- **Frontend:** Streamlit  
+- **Security:** Argon2 password hashing, HTTPS-ready  
+- **Deployment:** Render  
 
-Backend: FastAPI, Python, SQLite
-Authentication: JWT, OAuth 2.0 (Google)
-Frontend: Streamlit
-Security: Argon2 password hashing, HTTPS ready
-Deployment: Render
+**Links:**  
+- 💻 [Live Demo](https://lnkd.in/d8UuWA8c)  
+- 📂 [GitHub Repository](https://lnkd.in/dk3X--2K)  
 
-🌐 Links:
+> This project showcases expertise in secure API design, full-stack development, and cloud deployment using modern Python frameworks.
 
-💻 Live Demo: https://lnkd.in/d8UuWA8c
+---
 
-📂 Code on GitHub: https://lnkd.in/dk3X--2K
+## 📫 Contact
+- LinkedIn: [Harshil Soni](https://linkedin.com/in/harshil-soni9)  
+- Email: `your-email@example.com`  
 
-💡 Summary:
-This project demonstrates building a secure, full-stack financial application with modern Python frameworks and cloud deployment. Perfect for showcasing skills in backend APIs, authentication, and secure web apps.
-  
+---
+
 ## 📫 Contact
 - LinkedIn: [harshilsoni](https://linkedin.com/in/harshil-soni9)
