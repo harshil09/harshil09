@@ -2,7 +2,8 @@
 
 <!--
 **harshil09/harshil09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## 🛠 Skills
+Python | FastAPI | SQLite | Streamlit | RAG | LLM
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
