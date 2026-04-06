@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📫 Contact
-- LinkedIn: [harshil](www.linkedin.com/in/harshil-soni9)
+- LinkedIn: [harshil](https://linkedin.com/in/harshil-soni9)
