@@ -47,9 +47,6 @@ A full-stack financial application demonstrating modern backend and frontend dev
 
 ## 📫 Contact
 - LinkedIn: [Harshil Soni](https://linkedin.com/in/harshil-soni9)  
-- Email: `your-email@example.com`  
+- Email: harshilsoni757@gmail.com  
 
----
 
-## 📫 Contact
-- LinkedIn: [harshilsoni](https://linkedin.com/in/harshil-soni9)
