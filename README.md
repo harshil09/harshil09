@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🚀 Current Projects
+## 🚀 Current Project
 - **MyBank Pro – Secure Banking API & App** – Built a full-stack banking system with secure authentication, account management, and transaction tracking. Designed for both web APIs and a Streamlit frontend, with modern security practices.
 
 🔑 Key Features:
