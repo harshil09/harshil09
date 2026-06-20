@@ -10,13 +10,11 @@
 [![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Cursor](https://img.shields.io/badge/CURSOR-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
 
----
 
 ## Interested In
 
 Building production-grade backend systems and AI-powered applications — designing RAG pipelines that retrieve the right context instead of just embedding everything, integrating LLMs into real products through clean API and streaming architecture, and bridging business logic with engineering so systems hold up outside a demo environment.
 
----
 
 ## Current Projects
 
