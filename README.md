@@ -1,4 +1,4 @@
-# Bonjour, je suis Harshil 👋
+# Hi, I am Harshil 👋
 
 📍 Vadodara, India | Python Backend Developer | AI/ML Practitioner
 
