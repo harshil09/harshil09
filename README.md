@@ -1,4 +1,4 @@
-# Hi, I'm Harshil 👋
+# Bonjour, je suis Harshil 👋
 
 📍 Vadodara, India | Python Backend Developer | AI/ML Practitioner
 
@@ -23,7 +23,6 @@ Building production-grade backend systems and AI-powered applications — design
 * 📐 [Blueprint OCR](https://github.com/harshil09) — Document processing pipeline using RapidOCR, OpenCV, and PyMuPDF to extract structured data from scanned engineering drawings.
 * 📊 [EvalAI](https://github.com/harshil09) *(in progress)* — Full-stack transcript evaluation platform (Next.js + FastAPI + Supabase) with subscription gating and automated PDF report generation.
 
----
 
 ## Connect
 
