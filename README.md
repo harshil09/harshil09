@@ -12,6 +12,12 @@
 
 ---
 
+## Interested In
+
+Building production-grade backend systems and AI-powered applications — designing RAG pipelines that retrieve the right context instead of just embedding everything, integrating LLMs into real products through clean API and streaming architecture, and bridging business logic with engineering so systems hold up outside a demo environment.
+
+---
+
 ## Current Projects
 
 * 🏦 [SecureBank AI](https://github.com/harshil09) — Full-stack banking platform with JWT/OAuth2 auth and a RAG-powered AI concierge for in-app support.
