@@ -18,10 +18,10 @@ Building production-grade backend systems and AI-powered applications — design
 
 ## Current Projects
 
-* 🏦 [SecureBank AI](https://github.com/harshil09) — Full-stack banking platform with JWT/OAuth2 auth and a RAG-powered AI concierge for in-app support.
-* 🗣️ [MediVoice AI](https://github.com/harshil09) — Voice-based hospital booking assistant using VAPI, Twilio, Deepgram, and ElevenLabs for natural conversational scheduling.
-* 📐 [Blueprint OCR](https://github.com/harshil09) — Document processing pipeline using RapidOCR, OpenCV, and PyMuPDF to extract structured data from scanned engineering drawings.
-* 📊 [EvalAI](https://github.com/harshil09) *(in progress)* — Full-stack transcript evaluation platform (Next.js + FastAPI + Supabase) with subscription gating and automated PDF report generation.
+* 🏦 [SecureBank AI](https://github.com/harshil09/SecureBank-AI) — Full-stack banking platform with JWT/OAuth2 auth and a RAG-powered AI concierge for in-app support.
+* 🗣️ [MediVoice AI](https://github.com/harshil09/medi_voice_ai) — Voice-based hospital booking assistant using VAPI, Twilio, Deepgram, and ElevenLabs for natural conversational scheduling.
+* 📐 [Blueprint OCR](https://github.com/harshil09/blueprint-ocr) — Document processing pipeline using RapidOCR, OpenCV, and PyMuPDF to extract structured data from scanned engineering drawings.
+* 📊 [EvalAI](https://github.com/harshil09/evalai) — Full-stack transcript evaluation platform (Next.js + FastAPI + Supabase) with subscription gating and automated PDF report generation.
 
 
 ## Connect
